@@ -54,7 +54,7 @@ Phishing-Detection-Framework/
 ├── notebooks/
 │   ├── 01_Feature_Extraction.ipynb        (Data parsing and cleaning)
 │   ├── 02_Complexity_Categorization.ipynb (Complexity scoring and binning)
-│   └── 03_Models_Implementation.ipynb     (RF, DES, DCS, and LIME analysis)
+│   └── 03_Models_Implementation_and_LIME.ipynb     (RF, DES, DCS, and LIME analysis)
 ├── requirements.txt                       (Python dependencies)
 └── README.md                              (Project documentation)
 
