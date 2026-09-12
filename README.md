@@ -104,7 +104,7 @@ cd Phishing-Detection-Framework
 
 ## 7. Dataset Information
 
-This project utilizes the publicly available **Phishing Websites Dataset** from Mendeley Data (~80,000 webpages).
+This project utilizes the publicly available **Phishing Websites Dataset** from Mendeley Data (~80,000 webpages)
 
 - Classes: Legitimate vs. Phishing
 - Raw HTML files are not included in this repository due to size limits. Please refer to `data/raw/README.txt` for download instructions.
