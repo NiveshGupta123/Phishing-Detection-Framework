@@ -111,6 +111,3 @@ This project utilizes the publicly available **Phishing Websites Dataset** from 
 
 ---
 
-## Citation
-
-If you use this repository, please cite the corresponding research paper (to be updated after publication).
